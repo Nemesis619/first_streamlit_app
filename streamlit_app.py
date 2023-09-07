@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 
-charset-normalizer~=2.0.0
+charset-normalizer~=2.0
 
 streamlit.title('My  Parents New Healthy Diner')
 streamlit.header('Breakfast Favorites')
